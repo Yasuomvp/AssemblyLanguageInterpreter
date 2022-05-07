@@ -1,4 +1,4 @@
-public class Counter {
+public final class Counter {
 
     private Integer registerCount;
     private Integer instructionCount;

@@ -1,4 +1,4 @@
-public class Sentence {
+public final class Sentence {
     private Instruction instruction;
     private String currentRegister;
     private String operatedRegister;

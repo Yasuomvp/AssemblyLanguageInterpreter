@@ -1,4 +1,4 @@
-public class Register {
+public final class Register {
     private String name;
     private Integer value;
 
